@@ -1,0 +1,6 @@
+{
+  "name": "Lumcas Realtor and Properties Limited",
+  "description": "Ultra-modern portal for Lumcas Realtor and Properties Limited. Discover verified estates and prime properties across Nigeria with instant WhatsApp support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
